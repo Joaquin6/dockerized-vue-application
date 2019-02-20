@@ -6,6 +6,8 @@
 </template>
 
 <script>
+import 'vuetify/dist/vuetify.css'
+
 export default {
   name: 'App'
 }
